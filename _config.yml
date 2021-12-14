@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Terresa Eun"
+title                    : "Name"
 title_separator          : "-"
-name                     : &name "Terresa Eun"
+name                     : &name "Name"
 description              : &description "personal description"
 url                      : https://tjeun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
